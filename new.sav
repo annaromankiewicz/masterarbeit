@@ -1,0 +1,70 @@
+ID,w3,w4,w5,w6,w8,swe_w3,swe_w4,swe_w5,swe_w6,swe_w8
+KRE13,['EP A'],['EP A'],Fachpraktikum A,Fachpraktikum B,,3.3000002,5.3999996,4.6,5.0,
+AJC30,,['FP A'],Fachpraktikum B,,VP B,,4.5,4.4,,4.8
+DRF12,,['EP A'],,Fachpraktikum A,FP B,,5.1000004,,5.2,3.4
+AHC29,,['EP A'],,Fachpraktikum A,FP B,,4.8,,4.2,5.2
+MAJ29,['EP A'],['EP A'],Fachpraktikum A,,FP B,4.8,4.5,5.0,,4.6
+SJT06,,['EP A'],,Fachpraktikum A,VP A,,5.1000004,,3.8,4.6
+ALJ15,,['EP A'],,Fachpraktikum A,VP B,,4.5,,4.4,4.8
+IPM18,,['EP A'],,Fachpraktikum A,VP A,,4.8,,5.0,4.4
+RWS07,,['EP A'],,Fachpraktikum A,FP A,,3.8999999,,4.8,4.0
+MFV23,,['FP A'],Fachpraktikum B,Vertiefungspraktikum A,VP B,,5.3999996,5.4,4.8,4.8
+IFS27,,,Einführungspraktikum A,Einführungspraktikum B,VP A,,,4.8,4.8,4.8
+EFL19,['EP A'],['EP A'],,Fachpraktikum B,,5.3999996,5.3999996,,5.6,
+SHA13,['FP B'],,Vertiefungspraktikum A,Vertiefungspraktikum B,,4.5,,4.8,4.0,
+AKJ25,,['EP A'],,Fachpraktikum B,VP B,,5.7,,5.4,4.6
+ALS30,,['EP A'],,Fachpraktikum A,VP A,,5.1000004,,5.4,5.8
+GKK26,['FP B'],,Vertiefungspraktikum A,Vertiefungspraktikum B,,4.8,,4.6,5.2,
+SMC17,['EP A'],,,Fachpraktikum A,FP B,5.3999996,,,4.4,4.2
+SSJ20,,['EP A'],,Fachpraktikum B,VP A,,5.3999996,,5.4,5.2
+KKC22,,['FP A'],,Vertiefungspraktikum A,VP B,,4.8,,4.2,4.4
+SFJ26,['FP B'],['VP A'],Vertiefungspraktikum B,,VP B,4.8,4.5,5.8,,4.6
+IJK20,['FP A'],,Fachpraktikum B,Vertiefungspraktikum A,VP A,5.1000004,,5.4,5.6,4.6
+SAL14,['EP A'],,,Fachpraktikum A,VP A,4.8,,,5.2,3.4
+MDH14,,['EP A'],,Fachpraktikum A,VP A,,6.0,,6.0,5.6
+KHR15,,['EP A'],,Fachpraktikum A,FP B,,4.5,,5.2,5.8
+CGM10,['EP A'],['EP A'],,Fachpraktikum A,FP B,4.5,5.1000004,,4.0,4.2
+LRE09,,['VP A'],Vertiefungspraktikum B,,VP B,,5.3999996,4.4,,3.0
+MRN21,,['EP A'],,Fachpraktikum A,FP B,,5.3999996,,5.0,4.6
+IMA14,,['VP A'],,Vertiefungspraktikum B,VP B,,5.7,,5.8,4.8
+AWD13,['FP B'],,,Vertiefungspraktikum B,VP B,5.1000004,,,4.4,5.8
+BRJ16,,,Einführungspraktikum A,Einführungspraktikum B,FP A,,,5.0,5.0,4.8
+HET27,['VP A'],['VP B'],,,VP B,5.3999996,5.1000004,,,4.8
+IFV16,['EP A'],['EP A'],,,FP A,3.8999999,5.7,,,5.2
+PKL19,['FP B'],,Vertiefungspraktikum A,,MP A,5.1000004,,3.8,,3.0
+CES16,['EP A'],['EP A'],,Fachpraktikum A,FP B,3.6000001,4.5,,4.0,4.8
+MJA19,,['EP A'],,Fachpraktikum A,VP A,,4.5,,4.0,4.0
+PML27,['EP A'],['EP A'],,Fachpraktikum A,FP B,5.3999996,5.7,,4.8,5.0
+LFC19,,['EP A'],,Fachpraktikum A,FP B,,4.5,,5.0,4.0
+NHL21,,,Einführungspraktikum A,Einführungspraktikum B,FP A,,,5.8,3.8,3.4
+BKJ12,['EP A'],['EP A'],,Fachpraktikum A,FP B,3.3000002,4.5,,4.8,3.2
+KFL06,,['FP A'],Fachpraktikum B,Vertiefungspraktikum A,,,4.8,5.6,4.0,
+GFK01,,,Einführungspraktikum A,Einführungspraktikum B,EP B,,,3.6,4.4,4.0
+DML05,,['EP A'],,Fachpraktikum A,FP B,,6.0,,6.0,6.0
+RHM19,['EP A'],['EP A'],,Fachpraktikum A,VP A,5.1000004,5.1000004,,4.6,4.6
+BHN02,,,Fachpraktikum B,Vertiefungspraktikum A,VP B,,,4.2,5.0,4.6
+BAV11,,['EP A'],,Fachpraktikum A,FP A,,5.1000004,,4.4,4.2
+MFJ19,,,Einführungspraktikum A,Einführungspraktikum B,FP A,,,4.6,4.8,4.8
+RAS30,['EP A'],,,Fachpraktikum A,VP A,4.2,,,5.4,5.2
+ESS19,['VP A'],['VP B'],,,VP B,4.8,5.3999996,,,5.6
+MJS13,,['EP A'],,Fachpraktikum A,VP A,,5.1000004,,4.8,5.2
+BPM16,,['FP A'],Fachpraktikum B,Vertiefungspraktikum A,,,4.5,5.0,4.8,
+CME10,,['EP A'],,Fachpraktikum A,FP B,,5.7,,5.8,5.4
+SRJ31,['EP A'],['EP A'],,Fachpraktikum A,VP A,5.1000004,5.3999996,,5.0,4.6
+AGI19,['EP A'],['EP A'],,,VP A,4.5,4.2,,,5.0
+BMH23,,['FP A'],,Fachpraktikum B,VP A,,4.5,,5.6,5.0
+BDK16,['EP A'],['EP A'],,Fachpraktikum A,,4.2,4.5,,4.0,
+SRK27,['VP A'],['VP B'],,,VP B,5.3999996,5.1000004,,,5.4
+MWT23,,['EP A'],,Fachpraktikum A,VP A,,5.01,,5.4,5.2
+JAL27,,,Fachpraktikum A,Fachpraktikum B,VP B,,,4.8,5.2,5.6
+ERM05,,['EP A'],,Fachpraktikum A,FP B,,4.8,,4.0,4.2
+SRM18,['FP B'],['VP A'],,,VP B,5.3999996,5.3999996,,,5.8
+ETB28,['VP A'],['VP B'],,,MP A,3.8999999,3.3000002,,,2.4
+BSS27,['EP A'],['EP A'],,Fachpraktikum A,,5.7,5.1000004,,5.4,
+SAB14,['FP B'],['VP A'],Vertiefungspraktikum B,,,4.5,5.1000004,4.4,,
+MMH08,,['EP A'],,Fachpraktikum B,VP B,,4.8,,5.4,5.8
+AJC17,,['EP A'],,Fachpraktikum A,FP B,,6.0,,6.0,5.6
+LSA29,,,Einführungspraktikum A,Einführungspraktikum B,EP B,,,3.6,4.2,3.2
+MFM16,['FP B'],,,Vertiefungspraktikum B,VP B,3.6000001,,,4.8,3.2
+GHV14,,['EP A'],Fachpraktikum A,Fachpraktikum B,,,6.0,5.6,5.8,
+CNV24,,['EP A'],,Fachpraktikum A,VP A,,5.3999996,,4.4,5.2
